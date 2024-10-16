@@ -13,14 +13,14 @@ Faça o seguinte:
 /*
 02 - Inicie o seu servidor local e abra o console do browser.
 */
-   
+
 /*
 03 - Para certificar-se que este arquivo realmente está linkado, exiba a frase  
 "JS is Awesome!" em um alert no browser. */
- 
+
 // alert('JS is Awesome!')
 
- /*
+/*
 Como mencionei durante a aula: não se preocupe em entender 100% o que os comandos  
 "alert" e "console" fazem. Nós falaremos sobre eles mais à frente =)
 
@@ -38,8 +38,8 @@ exercícios. Inclusive o alert mencionado acima.
 dígitos. Ex.: 1930.
 */
 
-const myBirthYear = 1998;
-  
+const myBirthYear = 1999;
+
 
 /*
 06 - Declare uma const "currentYear", que recebe o ano atual, com 4 dígitos.
@@ -65,7 +65,7 @@ acontece.
 - Exiba a "myAge" no console.
 */
 
-const myAge =  currentYear - myBirthYear;
+const myAge = currentYear - myBirthYear;
 
 // console.log(myAge);
 
@@ -86,7 +86,7 @@ matemáticas e strings (textos) em breve =)
 const ten = 10;
 
 
-console.log(`Em ${currentYear + ten }, estarei com ${myAge + ten } anos.`);
+console.log(`Em ${currentYear + ten}, estarei com ${myAge + ten} anos.`);
 
 /*
 10 - Abra o site abaixo no browser e faça o seguinte:
